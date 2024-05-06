@@ -2,5 +2,3 @@
 *.keras
 temp.py
 test.py
-
-brain_tumor_dataset
